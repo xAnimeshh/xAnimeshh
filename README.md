@@ -10,9 +10,6 @@
 ❥︎ Age = "18"
 ❥︎ Country = "🇮🇳ɪɴᴅɪᴀ"
 ```
-***### MY STATS*** 
-
-![Stats](https://github-readme-stats.vercel.app/api?username=AVBotz-TG&show_icons=true&count_private=true&theme=dark)
 
 ### Languages and Tools I Love❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
@@ -25,9 +22,9 @@
 <br />
 <br />
 
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legendxop&layout=compact&theme=radical)](https://github.com/legendxop)
 
-**## Follow Me 🔥:**
+### Follow Me 🔥:
 
 <br>
 
