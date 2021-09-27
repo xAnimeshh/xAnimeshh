@@ -16,7 +16,7 @@
 ❥︎ Country = "🇮🇳 ɪɴᴅɪᴀ"
 ```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=legendxop&label=Profile%20Visits&color=orange&style=flat-square" alt="AVBotz-TG" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AVBotz-TG&label=Profile%20Visits&color=orange&style=flat-square" alt="AVBotz-TG" /> </p>
 
 ### Languages and Tools I Love❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
