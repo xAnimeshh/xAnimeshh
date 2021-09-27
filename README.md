@@ -24,7 +24,7 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legendxop&layout=compact&theme=radical)](https://github.com/legendxop)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AVBotz-TG&layout=compact&theme=radical)](https://github.com/legendxop)
 
 ### Follow Me 🔥:
 
