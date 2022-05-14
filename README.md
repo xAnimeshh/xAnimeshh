@@ -28,16 +28,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AVBotz-TG&layout=compact&theme=radical)](https://github.com/legendxop)
 
-### Follow Me 🔥:
+### Follow Meh 🔥:
+[![Animesh Verma](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
+[![Animesh Verma](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
+[![Animesh Verma](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook]
+###
+[instagram]: https://instagram.com/Animesh_941
+[telegram]: https://t.me/Animesh941
+[facebook]: https://facebook.com/Animesh941
 
-<br>
 
-<p align="left">
-<a href="https://telegram.me/AniMesH941"><img src="https://img.shields.io/badge/MySelf-Animesh%20Verma-blue?style=for-the-badge&logo=telegram"></a>
-</p>
-<p align="left">
-<a href="https://github.com/AVBotz-TG"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-active.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="left">
-<a href="https://www.instagram.com/Animesh_941/"><img src="https://img.shields.io/badge/Instagram-Animesh%20Verma-blueviolet?style=for-the-badge&logo=instagram"></a>
-</p>
