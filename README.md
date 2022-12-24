@@ -21,10 +21,12 @@
 [![Animesh Verma](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
 [![Animesh Verma](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
 [![Animesh Verma](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook]
+[![Animesh Verma](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
+[![Animesh Verma](https://img.icons8.com/fluent/48/000000/snapchat.png)][snapchat]
+
 ###
 [instagram]: https://instagram.com/Animesh_941
 [telegram]: https://t.me/Animesh941
 [facebook]: https://facebook.com/Animesh941
 [snapchat]: https://snapchat.com/Animesh_941x
 [twitter]: https://twitter.com/xAnimeshhh
----
