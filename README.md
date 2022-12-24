@@ -16,7 +16,7 @@
 ❥︎ Country = "🇮🇳 ɪɴᴅɪᴀ"
 ```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AVBotz-TG&label=Profile%20Visits&color=orange&style=flat-square" alt="AVBotz-TG" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xAnimeshh&label=Profile%20Visits&color=orange&style=flat-square" alt="xAnimeshh" /> </p>
 
 ### Languages and Tools I Love❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
@@ -26,7 +26,7 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AVBotz-TG&layout=compact&theme=radical)](https://github.com/legendxop)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xAnimeshh&layout=compact&theme=radical)](https://github.com/legendxop)
 
 ### Follow Meh 🔥:
 [![Animesh Verma](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
