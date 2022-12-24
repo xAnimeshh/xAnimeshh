@@ -1,34 +1,23 @@
-**❥︎ 👋 Hi, I’m Animesh Verma 🖤**
+## Hi, I'm Animesh 
+- Nikamma Lol!!
+- [Connect with me](#-connect-with-me).
+- [![Profile views](https://komarev.com/ghpvc/?username=xAnimeshh&label=Profile%20views)](https://github.com/xAnimeshh)
+---
 
-**❥︎ 👀 I’m interested in coding a bit**
+## 🛠️ Languages and tools
+<a href="https://code.visualstudio.com/" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="arduino" width="30" height="30"/> </a>
+<a href="https://heroku.com" class="padded" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a> 
+<a href="https://www.python.org" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
+<a href="https://redis.io" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/> </a>
+<a href="https://github.com" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="30" height="30"/>
+</a>
 
-**❥︎ 🌱 I’m currently creating some Telegram Bots**
+---
+## 📊 Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xAnimeshh&layout=compact&theme=radical)](https://github.com/xAnimeshh)
 
-**❥︎ 💞️ I’m handling many channels, groups & bots on Telegram**
-
-**❥︎ 💞️ Also, I'm the Founder of Team Librarian**
-
-**❥︎ 📫 How to reach me : Telegram - [Animesh Verma](https://t.me/AniMesH941)**
-
-```python
-❥︎ Name = "ANIMESH VERMA"
-❥︎ Age = "18"
-❥︎ Country = "🇮🇳 ɪɴᴅɪᴀ"
-```
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xAnimeshh&label=Profile%20Visits&color=orange&style=flat-square" alt="xAnimeshh" /> </p>
-
-### Languages and Tools I Love❤️
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
-[<img align="left" alt="Heroku" width="26px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />](https://heroku.com/)
-
-<br />
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xAnimeshh&layout=compact&theme=radical)](https://github.com/legendxop)
-
-### Follow Meh 🔥:
+---
+## 🔗 Connect with me
 [![Animesh Verma](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
 [![Animesh Verma](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
 [![Animesh Verma](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook]
@@ -36,5 +25,6 @@
 [instagram]: https://instagram.com/Animesh_941
 [telegram]: https://t.me/Animesh941
 [facebook]: https://facebook.com/Animesh941
-
-
+[snapchat]: https://snapchat.com/Animesh_941x
+[twitter]: https://twitter.com/xAnimeshhh
+---
